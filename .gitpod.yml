@@ -22,6 +22,6 @@ image:
 ports:
   - port: 6080
     protocol: "http"
-#tasks:
-#  - name: alloy analyser
-#    command: alloy-analyser.sh
+tasks:
+  - name: alloy analyser
+    command: alloy
