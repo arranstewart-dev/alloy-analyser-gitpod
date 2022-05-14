@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="AnalyzerHeight" value="726"/>
+  <entry key="AnalyzerWidth" value="1282"/>
+  <entry key="AnalyzerX" value="0"/>
+  <entry key="AnalyzerY" value="0"/>
+  <entry key="FontName" value="DejaVu Sans"/>
+  <entry key="FontSize" value="12"/>
+  <entry key="Model0" value="/tmp/alloy4tmp40-gitpod/models/examples/tutorial/farmer.als"/>
+  <entry key="Model1" value=""/>
+  <entry key="Model2" value=""/>
+  <entry key="Model3" value=""/>
+  <entry key="VisualizerMode" value="graphviz"/>
+  <entry key="VizHeight" value="541"/>
+  <entry key="VizWidth" value="1098"/>
+  <entry key="VizX" value="30"/>
+  <entry key="VizY" value="29"/>
+</map>

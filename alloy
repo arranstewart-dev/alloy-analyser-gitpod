@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# xrender property fixes this bug:
+# https://github.com/gitpod-io/gitpod/issues/1004 
+java -Dsun.java2d.xrender=false -jar /opt/alloy/org.alloytools.alloy.dist.jar
